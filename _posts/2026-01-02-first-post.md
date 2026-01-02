@@ -33,5 +33,5 @@ This blog helps me organize my ideas, document my learning, and share useful fin
 > **Get in touch:** You can find links to my profiles in the sidebar, or open an issue in this repository.
 {: .prompt-tip }
 
-Thanks for stopping by — more posts coming soon.  
+Thanks for stopping by, more posts coming soon.  
 If there’s a topic you’d like to see first, feel free to let me know.
