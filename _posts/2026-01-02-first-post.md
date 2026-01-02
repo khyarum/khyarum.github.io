@@ -13,7 +13,7 @@ image:
 excerpt: "An introduction to my blog notes, experiments, and writeups for TryHackMe rooms and CTF challenges."
 ---
 
-# Hello, I’m Khyarum — welcome to my personal blog.
+# Hello, I’m Khyarum welcome to my personal blog.
 
 I’ll be using this space to share short notes and, primarily, writeups and walkthroughs of TryHackMe rooms, CTF challenges, and other security-related challenges.
 
