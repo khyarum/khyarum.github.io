@@ -5,7 +5,7 @@ categories: [announcement]
 date: 2026-01-02 12:00:00 +0000
 tags: [welcome, announcement, tryhackme]
 render_with_liquid: false
-pin: true
+pin: false
 media_subpath: /images/first-post
 image:
   path: hero.svg
